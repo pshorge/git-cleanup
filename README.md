@@ -27,3 +27,4 @@ Clone the repository and run:
 
 ```bash
 cargo install --path .
+
